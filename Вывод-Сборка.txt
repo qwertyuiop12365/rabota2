@@ -1,0 +1,4 @@
+﻿1>------ Сборка запущено: проект: rabotasadddd, конфигурация: Debug|AnyCPU ------
+1>C:\Users\s7sashok\source\repos\rabotasadddd\rabotasadddd\Program.cs(20,13,20,20): error CS0103: Имя "console" не существует в текущем контексте.
+1>C:\Users\s7sashok\source\repos\rabotasadddd\rabotasadddd\Program.cs(16,23,16,41): warning CS8604: Возможно, аргумент-ссылка, допускающий значение NULL, для параметра "s" в "int int.Parse(string s)".
+========== Сборка: 0 успешно, 1 неудачно, 0 актуально, 0 пропущено ==========
